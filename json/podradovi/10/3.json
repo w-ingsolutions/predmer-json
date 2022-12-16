@@ -1,0 +1,72 @@
+{
+    "id": 3,
+    "slug": "XXXXXXXXXXXX",
+    "PodvrsteRadova": [{
+            "id": 1,
+            "naziv": "XXXXXXXXXXXX",
+            "opis": "XXXXXXXXXXX",
+            "obracun": "XXXXXXX",
+            "jedinica": "XXXXXXX",
+            "cena": 0.00,
+            "element": true
+          },
+          {
+            "id": 2,
+            "naziv": "XXXXXXXXXXXX",
+            "opis": "XXXXXXXXXXX",
+            "obracun": "XXXXXXX",
+            "jedinica": "XXXXXXX",
+            "cena": 0.00,
+            "element": true
+          },
+          {
+            "id": 3,
+            "naziv": "XXXXXXXXXXXX",
+            "opis": "XXXXXXXXXXX",
+            "obracun": "XXXXXXX",
+            "jedinica": "XXXXXXX",
+            "cena": 0.00,
+            "element": true
+          },
+          {
+            "id": 4,
+            "naziv": "XXXXXXXXXXXX",
+            "opis": "XXXXXXXXXXX",
+            "obracun": "XXXXXXX",
+            "jedinica": "XXXXXXX",
+            "cena": 0.00,
+            "element": true
+          },
+          {
+            "id": 5,
+            "naziv": "XXXXXXXXXXXX",
+            "opis": "XXXXXXXXXXX",
+            "obracun": "XXXXXXX",
+            "jedinica": "XXXXXXX",
+            "cena": 0.00,
+            "element": true
+          },
+          {
+            "id": 6,
+            "naziv": "XXXXXXXXXXXX",
+            "opis": "XXXXXXXXXXX",
+            "obracun": "XXXXXXX",
+            "jedinica": "XXXXXXX",
+            "cena": 0.00,
+            "element": true
+          },
+          {
+            "id": 7,
+            "naziv": "XXXXXXXXXXXX",
+            "opis": "XXXXXXXXXXX",
+            "obracun": "XXXXXXX",
+            "jedinica": "XXXXXXX",
+            "cena": 0.00,
+            "element": true
+          }]
+    }
+ 
+
+  
+  
+ 

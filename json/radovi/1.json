@@ -1,0 +1,48 @@
+{
+  "id": 2,
+  "naziv": "Istraživački",
+  "opis": "",
+  "obracun": "",
+  "jedinica": "",
+  "cena": 0,
+  "slug": "istrazivacki",
+  "Omogucen": false,
+  "Baza": false,
+  "Element": false,
+  "Roditelj": null,
+  "PodvrsteRadova": [{
+      "id": 1,
+      "naziv": "Snimanja i dokumentacija",
+      "slug": "snimanja_i_dokumentacija",
+      "Omogucen": false,
+      "Baza": true
+    },
+    {
+      "id": 2,
+      "naziv": "Ispitivanja i dokumentacija",
+      "slug": "ispitivanja_i_dokumentacija",
+      "Omogucen": false,
+      "Baza": true
+    },
+    {
+      "id": 3,
+      "naziv": "Arheološki iskopi",
+      "slug": "arheoloski_iskopi",
+      "Omogucen": false,
+      "Baza": true
+    },
+    {
+      "id": 4,
+      "naziv": "Obrada arheoloških nalaza",
+      "slug": "obrada_arheoloskih_nalaza",
+      "Omogucen": false,
+      "Baza": true
+    },
+    {
+      "id": 5,
+      "naziv": "Ostali istraživački radovi",
+      "slug": "ostali_istraživacki_radovi",
+      "Omogucen": false,
+      "Baza": true
+    }]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 8,
+  "slug": "Podovi",
+  "PodvrsteRadova": [{
+      "id": 1,
+      "naziv": "Lakiranje parketa lakom po izboru projektanta. - Parketa.",
+      "opis": "Parket lakirati tri puta. Otvorene fuge parketa kitovati smesom fine strugotine i laka. Po sušenju preći finom šmirglom, opajati pod i lakirati prvi put. Posle 24 časa parket kitovati, preći finom šmirglom, opajati pod i lakirati drugi put. Potpuno osušeni drugi sloj laka fino brusiti, opajati pod i lakirati treći put. Prilikom lakiranja voditi računa da četka bude natopljena lakom.",
+      "obracun": "Obračun po m2 lakirane površine.",
+      "jedinica": "m2",
+      "cena": 3.5,
+      "element": true
+    },
+    {
+      "id": 2,
+      "naziv": "Lakiranje parketa lakom po izboru projektanta. - Lamel parketa.",
+      "opis": "Parket lakirati tri puta. Otvorene fuge parketa kitovati smesom fine strugotine i laka. Po sušenju preći finom šmirglom, opajati pod i lakirati prvi put. Posle 24 časa parket kitovati, preći finom šmirglom, opajati pod i lakirati drugi put. Potpuno osušeni drugi sloj laka fino brusiti, opajati pod i lakirati treći put. Prilikom lakiranja voditi računa da četka bude natopljena lakom.",
+      "obracun": "Obračun po m2 lakirane površine.",
+      "jedinica": "m2",
+      "cena": 3.0,
+      "element": true
+    },
+    {
+      "id": 3,
+      "naziv": "Lakiranje parketa lakom po izboru projektanta. - Brodskog poda.",
+      "opis": "Parket lakirati tri puta. Otvorene fuge parketa kitovati smesom fine strugotine i laka. Po sušenju preći finom šmirglom, opajati pod i lakirati prvi put. Posle 24 časa parket kitovati, preći finom šmirglom, opajati pod i lakirati drugi put. Potpuno osušeni drugi sloj laka fino brusiti, opajati pod i lakirati treći put. Prilikom lakiranja voditi računa da četka bude natopljena lakom.",
+      "obracun": "Obračun po m2 lakirane površine.",
+      "jedinica": "m2",
+      "cena": 3.5,
+      "element": true
+    },
+    {
+      "id": 4,
+      "naziv": "Lakiranje drvenih sokli, lakom, po izboru projektanta.",
+      "opis": "Soklu lakirati dva puta. Soklu preći finom šmirglom, opajati i lakirati prvi put. Posle 24 časa fino brusiti soklu, opajati i lakirati drugi put. Prilikom lakiranja voditi računa da četka bude natopljena lakom.",
+      "obracun": "Obračun po m1 sokle.",
+      "jedinica": "m2",
+      "cena": 0.5,
+      "element": true
+    },
+    {
+      "id": 5,
+      "naziv": "Bojenje brodskog poda, lazurnim bojama. - Brodskog poda.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom i bojiti po treći put.",
+      "obracun": "Obračun po m2 poda.",
+      "jedinica": "m2",
+      "cena": 3.0,
+      "element": true
+    },
+    {
+      "id": 6,
+      "naziv": "Bojenje brodskog poda, lazurnim bojama. - Drvenih sokli.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom i bojiti po treći put.",
+      "obracun": "Obračun po m2 poda.",
+      "jedinica": "m2",
+      "cena": 0.5,
+      "element": true
+    },
+    {
+      "id": 7,
+      "naziv": "Bojenje novog brodskog poda.",
+      "opis": "Pod očistiti i impregnirati polifirnisom, kitovati spojeve, pukotine i čvorove. Pod prevući brusnim kitom, brusiti i nadkitovati. Brodski pod bojiti dva puta, bojom po izboru projektanta.",
+      "obracun": "Obračun po m2 poda.",
+      "jedinica": "m2",
+      "cena": 4.5,
+      "element": true
+    },
+    {
+      "id": 8,
+      "naziv": "Bojenje brodskog poda, sa skidanjem boje.",
+      "opis": "Postojeću boju skinuti hemijskim ili mehaničkim putem. Kitovati spojeve, pukotine i čvorove. Pod prevući brusnim kitom, brusiti i nadkitovati. Brodski pod bojiti dva puta, bojom po izboru projektanta.",
+      "obracun": "Obračun po m2 poda.",
+      "jedinica": "m2",
+      "cena": 5.0,
+      "element": true
+    }]
+}

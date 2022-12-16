@@ -1,0 +1,166 @@
+{
+  "id": 13,
+  "slug": "Ograde",
+  "PodvrsteRadova": [{
+      "id": 1,
+      "naziv": "Bojenje metalne ograde bojom, za metal. - Ograde.",
+      "opis": "Pre bojenja sa metala skinuti koroziju hemijskim i fizičkim sredstvima, a zatim sve površine brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.25,
+      "element": true
+    },
+    {
+      "id": 2,
+      "naziv": "Bojenje metalne ograde bojom, za metal. - Stepenišne ograde.",
+      "opis": "Pre bojenja sa metala skinuti koroziju hemijskim i fizičkim sredstvima, a zatim sve površine brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.75,
+      "element": true
+    },
+    {
+      "id": 3,
+      "naziv": "Bojenje metalne ograde bojom, za metal. - Balkonske ograde.",
+      "opis": "Pre bojenja sa metala skinuti koroziju hemijskim i fizičkim sredstvima, a zatim sve površine brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.0,
+      "element": true
+    },
+    {
+      "id": 4,
+      "naziv": "Bojenje metalne ograde bojom, za metal. - Kapije.",
+      "opis": "Pre bojenja sa metala skinuti koroziju hemijskim i fizičkim sredstvima, a zatim sve površine brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.25,
+      "element": true
+    },
+    {
+      "id": 5,
+      "naziv": "Bojenje metalne ograde bojom, za metal. - Kapije i ograde.",
+      "opis": "Pre bojenja sa metala skinuti koroziju hemijskim i fizičkim sredstvima, a zatim sve površine brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.25,
+      "element": true
+    },
+    {
+      "id": 6,
+      "naziv": "Skidanje stare boje i bojenje metalne ograde, bojom za metal. - Ograde.",
+      "opis": "Pre bojenja skinuti staru boju i koroziju hemijskim i fizičkim sredstvima, brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.0,
+      "element": true
+    },
+    {
+      "id": 7,
+      "naziv": "Skidanje stare boje i bojenje metalne ograde, bojom za metal. - Stepenišne ograde.",
+      "opis": "Pre bojenja skinuti staru boju i koroziju hemijskim i fizičkim sredstvima, brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.5,
+      "element": true
+    },
+    {
+      "id": 8,
+      "naziv": "Skidanje stare boje i bojenje metalne ograde, bojom za metal. - Balkonske ograde.",
+      "opis": "Pre bojenja skinuti staru boju i koroziju hemijskim i fizičkim sredstvima, brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 4.0,
+      "element": true
+    },
+    {
+      "id": 9,
+      "naziv": "Skidanje stare boje i bojenje metalne ograde, bojom za metal. - Kapije.",
+      "opis": "Pre bojenja skinuti staru boju i koroziju hemijskim i fizičkim sredstvima, brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.5,
+      "element": true
+    },
+    {
+      "id": 10,
+      "naziv": "Skidanje stare boje i bojenje metalne ograde, bojom za metal. - Kapije i ograde.",
+      "opis": "Pre bojenja skinuti staru boju i koroziju hemijskim i fizičkim sredstvima, brusiti i očistiti. Na ogradu naneti impregnaciju i osnovnu boju, a zatim bojiti dva puta bojom za metal.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.5,
+      "element": true
+    },
+    {
+      "id": 11,
+      "naziv": "Bojenje drvene ograde, lazurnim bojama. - Ograde.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom i bojiti po treći put.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 4.0,
+      "element": true
+    },
+    {
+      "id": 12,
+      "naziv": "Bojenje drvene ograde, lazurnim bojama. - Stepenišne ograde.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom i bojiti po treći put.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 4.5,
+      "element": true
+    },
+    {
+      "id": 13,
+      "naziv": "Bojenje drvene ograde, lazurnim bojama. - Kapije.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom i bojiti po treći put.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.0,
+      "element": true
+    },
+    {
+      "id": 14,
+      "naziv": "Bojenje drvene ograde, lazurnim bojama. - Kapije i ograde.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom i bojiti po treći put.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 3.25,
+      "element": true
+    },
+    {
+      "id": 15,
+      "naziv": "Bojenje drvene ograde, lazurnim bojama, sa lakiranjem. - Ograde.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom, pa bojiti treći put i lakirati lakom.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 5.0,
+      "element": true
+    },
+    {
+      "id": 16,
+      "naziv": "Bojenje drvene ograde, lazurnim bojama, sa lakiranjem. - Stepenišne ograde.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom, pa bojiti treći put i lakirati lakom.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 5.5,
+      "element": true
+    },
+    {
+      "id": 17,
+      "naziv": "Bojenje drvene ograde, lazurnim bojama, sa lakiranjem. - Kapije.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom, pa bojiti treći put i lakirati lakom.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 4.0,
+      "element": true
+    },
+    {
+      "id": 18,
+      "naziv": "Bojenje drvene ograde, lazurnim bojama, sa lakiranjem. - Kapije i ograde.",
+      "opis": "Bojiti sadolinom ili nekim sličnim sredstvom po izboru projektanta. Pre bojenja sve površine preći finom šmirglom, da ostane glatka površina. Bojiti dva puta sa razmakom za sušenje od 24 h, preći najfinijom šmirglom, pa bojiti treći put i lakirati lakom.",
+      "obracun": "Obračun po m2 obojene površine.",
+      "jedinica": "m2",
+      "cena": 4.25,
+      "element": true
+    }]
+}
