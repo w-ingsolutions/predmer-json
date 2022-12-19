@@ -7,10 +7,12 @@ import (
 	"log"
 	"path/filepath"
 	"strconv"
+
+	"github.com/w-ingsolutions/predmer-api/models"
 )
 
-func APIimportFS(jsonDBradovi, jsonDBpodradovi embed.FS) (radovi *WingVrstaRadova) {
-	radovi = &WingVrstaRadova{
+func APIimportFS(jsonDBradovi, jsonDBpodradovi embed.FS) (radovi models.WingVrstaRadova) {
+	radovi = models.WingVrstaRadova{
 		Id:             0,
 		Naziv:          "Radovi",
 		Opis:           "Radovi predmer",
@@ -52,7 +54,7 @@ func APIimportFS(jsonDBradovi, jsonDBpodradovi embed.FS) (radovi *WingVrstaRadov
 			if radoviRaw.Id == folder {
 				fmt.Println("radoviRaw.Id : ", radoviRaw.Id)
 				for i, podRadoviRaw := range apiFolder {
-					podvrstaRadova := WingVrstaRadova{}
+					podvrstaRadova := models.WingVrstaRadova{}
 					pod, err := jsonDBpodradovi.ReadFile(filepath.Join("json", "radovi", podradoviFolderRaw.Name(), podRadoviRaw.Name()))
 					if err != nil {
 						fmt.Println("Err", err)
