@@ -4,14 +4,13 @@ import (
 	"embed"
 
 	"github.com/davecgh/go-spew/spew"
-
 	"github.com/w-ingsolutions/predmer-json/jsondb"
 )
 
-//go:embed json/radovi/*
+//go:embed json/vrste/*
 var jsonDBradovi embed.FS
 
-//go:embed json/podradovi/*
+//go:embed json/radovi/*
 var jsonDBpodradovi embed.FS
 
 func main() {
@@ -21,10 +20,10 @@ func main() {
 	// 	fmt.Println("running initial sync")
 	// }
 	// in.Init(w.Podesavanja.File)
-	//w.APIimportFS(jsonDBpodradovi,jsonDBradovi)
-	radovi := jsondb.APIimportFS(jsonDBradovi, jsonDBpodradovi)
+	// w.APIimportFS(jsonDBpodradovi,jsonDBradovi)
+	// jsondb.APIimportFS(jsonDBradovi, jsonDBpodradovi)
 
-	spew.Dump(radovi)
+	spew.Dump(jsondb.APIimportFS(jsonDBradovi, jsonDBpodradovi))
 
 	//fmt.Println(" PodvrsteRadovaPodvrsteRadova::::::::::: ", w.Radovi.PodvrsteRadova)
 
